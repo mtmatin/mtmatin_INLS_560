@@ -1,22 +1,22 @@
 # expressions are basically anything combined 
 # orders of operation 
+"a=2 : this is not pythonic!"
 
-a=2 # this is not pythonic!
+a = 2
 b = 5
 c = 1
 
-# Default 000
-result1 = a + b + c
+# Default order of operations
+result1 = a + b * c
 print("a + b * c =", result1)
 
-# Default 000
-result2 = (a + b) + c
+# With parenthesis: addition first
+result2 = (a + b) * c
 print("(a + b) * c =", result2)
 
-# Default 000
-result3 = a + b + c
-print("a + b * c =", result3)
+# More variations
+result3 = a * (b + c)
+print("a * (b + c) =", result3)
 
-# Default 000
-result4 = a + b + c
-print("a + b * c =", result4)
+result4 = (a + b + c)
+print("a + b + c) =", result4)

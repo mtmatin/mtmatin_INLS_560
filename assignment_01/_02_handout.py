@@ -1,0 +1,13 @@
+"= assignment operator"
+"+ concatenation"
+"+ addition"
+"- subtraction"
+"* multiplication"
+"// floor division"
+"/ division"
+"% modulus"
+"* * exponent"
+"== equals"
+"# comment"
+'single quotes'
+"double quotes"
