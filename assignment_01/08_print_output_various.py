@@ -1,6 +1,6 @@
-string1 = "To be or"
-string2 = " not to be."
+string1 = "To eat cake"
+string2 = " or to not eat cake."
 
 print(string1 + "" + string2)
 
-# output is to be or not to be 
+# output is To eat cake or to not eat cake. 

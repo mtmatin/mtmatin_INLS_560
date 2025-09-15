@@ -1,9 +1,9 @@
 print("Hello, World!")
 
-age = 15
+age = 21
 print("My age is", age)
 
 # result of division is float 
-midterm = 97
+exam = 85
 final = 100
-print("Average:",(midterm + final)/2)
+print("Average:",(exam + final)/2)

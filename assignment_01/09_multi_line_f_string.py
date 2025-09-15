@@ -7,14 +7,14 @@ name = 'Mariam'
 age = 21
 print(f"Hello, My name is {name} and I'm {age} years old.")
 
-adjective = "red"
+adjective = "brown"
 verb = "run"
 noun = "cat"
 
 print(
 f'''
 
-Once upon a time there was a {noun} that liked to {verb}. 
+Once upon a time there was a {noun} that loved to {verb}. 
 
 It was not the color {adjective}.
 
